@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PND</string>
+    <string name="notification_activity">NotificationView</string>
 </resources>
